@@ -1,6 +1,5 @@
 # Get_incidence
-## Important
-This is only for Germany
+This shows the courrent incidences of a particular (or all) federal states of Germany.
 ## Installation
 1. Make sure you have installed [Python](https://www.python.org/downloads/)
 2. ```pip install requests```
