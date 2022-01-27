@@ -1,4 +1,3 @@
-import json
 from requests import *
 
 url = "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html"
